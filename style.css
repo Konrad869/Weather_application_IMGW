@@ -1,0 +1,65 @@
+body {
+    margin: 10px;
+}
+
+
+#weatherCity {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+ 
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .table th,
+  .table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+  }
+  
+  
+  .table th {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  
+  .table th:first-child,
+  .table td:first-child {
+    background-color: #555;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+
+  .table tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+  }
+  
+
+  .table td:nth-child(2) {
+    font-style: italic;
+  }
+  
+  
+  .table td:nth-child(4) {
+    color: #ff5733; 
+  }
+  
+ 
+  .table td:nth-child(5) {
+    color: #0088cc; 
+  }
+  
+ 
+  .table td:nth-child(6) {
+    color: #00a650; 
+  }
+  
