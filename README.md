@@ -4,7 +4,7 @@ The Weather_application_IMGW application is an application that reads data from 
 Tech
 
 
-JobOffers is developed using following technologies:
+Weather_application_IMGW is developed using following technologies:
 
 
  
